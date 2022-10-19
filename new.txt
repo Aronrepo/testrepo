@@ -2,6 +2,3 @@ bob
 jim
 Joe
 Marybob
-Robert
-Adam
-G
